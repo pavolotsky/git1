@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print('second')
     k = 9
+    a = 100
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
